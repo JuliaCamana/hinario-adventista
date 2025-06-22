@@ -1,6 +1,6 @@
 'use client'
 import React from "react";
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+//import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import { ContentSearchHinos, ContentSearchListHinos } from "./styles";
 import { FaSearch } from "react-icons/fa";
 
