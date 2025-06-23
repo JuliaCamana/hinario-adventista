@@ -64,4 +64,13 @@ export const ContentSearchListHinos = styled.div`
 margin: 10%;
 margin-top: 0;
 
+scroll-margin-bottom: 30px;
+
+
+@media (max-width: 768px) {
+    margin: 2%;
+    
+  }
+
+
 `

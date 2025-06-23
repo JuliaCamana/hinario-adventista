@@ -29,7 +29,7 @@ export default function RootLayout({
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <nav className="navbar bg-body-tertiary ">
           <div className="container-fluid justify-content-center ">
-            <span className="navbar-brand mb-0 h1 ">Hinario Aventista</span>
+            <span className="navbar-brand mb-0 h1 ">Hinario Adventista</span>
           </div>
         </nav>
         {children}

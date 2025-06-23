@@ -22,22 +22,27 @@ export const ContentTitulo =  styled.div`
 export const Content = styled.div`
     display: flex;
     justify-content: space-around;
-    background-color: yellow;
+    margin: 2%;
+    margin-bottom: 5%;
+
+    @media(max-width: 768px){
+        margin-bottom: 30%;
+    }
 
 `;
 
 export const ContentHino = styled.div`
     margin: 20%;
-    margin-top: 5%;
+    margin-top: 0;
 
     text-align: center;
     font-size: 20px;
+    
 
 
     @media(max-width: 768px){
-      margin: 0;
-      margin-top: 10%;
-      margin-bottom: 10%;
+      margin: 5%;
+      margin-top: 0;
       text-align: start; 
       font-size: 14px;
   
@@ -45,6 +50,13 @@ export const ContentHino = styled.div`
     }
 
 `;
+
+export const PNoEstrofe = styled.p`
+    margin-top: 6px;
+    margin-bottom: 6px;
+    line-height: 1.2;
+    text-align: center;
+`
 
 export const P = styled.div`
     margin-top: 0;
@@ -63,6 +75,7 @@ export const Rodape = styled.div`
     color: black;
     padding: 1rem 0;
     z-index: 1000;
+   
 
 `;
 export const ButtonLeft = styled.div`
