@@ -8,11 +8,6 @@ import { FaSearch } from "react-icons/fa";
 export default function Home() {
   return (
     <div>
-      <nav className="navbar bg-body-tertiary ">
-        <div className="container-fluid justify-content-center ">
-          <span className="navbar-brand mb-0 h1 ">Hinario Aventista</span>
-        </div>
-      </nav>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
