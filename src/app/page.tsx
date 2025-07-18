@@ -10,11 +10,12 @@ import { useRouter } from "next/navigation";
 export default function Home() {
 
   const router = useRouter();
+ 
 
   //const hinos = new Map(Hinos.map(h => [h.numero, h]));
 
-  const handleHino = ()=>{
-      router.push('/hino');
+  const handleHino = (num: number)=>{
+      router.push(`/hino?num=${num}`);
   }
 
   return (
@@ -43,7 +44,7 @@ export default function Home() {
         <ContentSearchListHinos>
           <ul className="list-group list-group-flush">
             { Hinos.map( (hino) =>(
-              <li key={hino.numero} className="list-group-item" onClick={handleHino}> {hino.numero} - {hino.titulo} </li>
+              <li key={hino.numero} className="list-group-item" onClick={()=>handleHino(hino.numero)}> {hino.numero} - {hino.titulo} </li>
             ))}   
           </ul>
         </ContentSearchListHinos>

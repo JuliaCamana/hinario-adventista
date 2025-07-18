@@ -2,54 +2,84 @@
 import { FaMagnifyingGlassMinus, FaMagnifyingGlassPlus } from "react-icons/fa6";
 import { ButtonLeft, Content, ContentHino, ContentTitulo, P, PNoEstrofe, Rodape } from "./styles";
 import { FaHome, FaList } from "react-icons/fa";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
+import hinos from "@/app/datas/letraHinos.json";
+import { Numans } from "next/font/google";
+import { useState } from "react";
 
 
 
 export default function Hino() {
 
     const router = useRouter();
+    const [noEstrofe, setNoEstrofe] = useState(1);
+    const [posicao, setPosicao] = useState(0);
+    const searchParams = useSearchParams();
+    const no = searchParams.get('num')
 
-    const handleHome = () =>{
+    const numero = Array.isArray(no) ? parseInt(no[0]) : parseInt(no ?? '')
+    const hino = hinos.find((hino) => hino.numero === numero)
+
+    const handleHome = () => {
         router.push('/');
     }
     return (
         <div>
-          
+
             <ContentTitulo>
-                <h1>420 - Oh! Que Amigo em Cristo Temos!</h1>
+                <h1>{hino?.titulo}</h1>
             </ContentTitulo>
             <Content>
                 <ButtonLeft>&lt;</ButtonLeft>
-            <ContentHino>
+                <ContentHino>
+                    {hino?.temCoro ? hino.posicaoCoro === posicao ?
+                        <div>
+                            <PNoEstrofe>Coro</PNoEstrofe>
+                            {hino.coro?.map(
+                                (verso, index) => <P key={index} >{verso}</P>
+                            )}
+                        </div>
+                        : <div>
+                            {hino.estrofes.map((estrofe, i) => (
+                                <div key={i}>
+                                    <PNoEstrofe>{i + 1}</PNoEstrofe>
+                                    {estrofe.map(
+                                        (verso, index) => <P key={index}>{verso}</P>
+                                    )}
+                                
+                                {hino.posicaoCoro === i+1 && (
+                                <div>
+                                    <PNoEstrofe>Coro</PNoEstrofe>
+                                    {hino.coro?.map(
+                                        (verso, index) =>(<P key={index} >{verso}</P>)
+                                    )}
+                                </div>
+                                )}
+                            </div>
+                            ))
+                            }
+                        </div>
+                        : <div>
+                            {hino?.estrofes.map((estrofe, index) => (
+                                <div key={index}>
+                                    <PNoEstrofe>{index + 1}</PNoEstrofe>
+                                    {estrofe.map((verso, i) => (
+                                        <P key={i}>{verso}</P>
+                                    ))}
+                                </div>
+                            ))
+                            }
+                        </div>
+                    }
 
-                <PNoEstrofe>1</PNoEstrofe>
-                <P>Oh! que amigo em Cristo temos! Mais chegado que um irmão!</P>
-                <P>Quer que tudo nós levemos Ao bom Deus em oração.</P>
-                <P>Oh! que paz perdemos sempre, Oh! que dor de coração!</P>
-                <P>Só porque não recorremos ao bom Deus em oração!</P>
-
-
-                <PNoEstrofe>2</PNoEstrofe>
-                <P>Há tristezas e pesares, Há na vida tentação;</P>
-                <P>Não ficamos sem conforto, Indo a Cristo em oração.</P>
-                <P>Pode haver um outro amigo Tão grandioso em compaixão?</P>
-                <P>Aos humildes e contritos, Cristo atende em oração.</P>
-
-                <PNoEstrofe>3</PNoEstrofe>
-                <P> Quando em dor desfalecemos, Cristo estendenos a mão,</P>
-                <P> Pois é sempre a nossa força, É refúgio em oração.</P>
-                <P> E se aqui nos menosprezam, Cristo é nosso em oração;</P>
-                <P> Em Seus braços nos acolhe, E nos dá consolação.</P>
-
-            </ContentHino>
-            <ButtonLeft>&gt;</ButtonLeft>
+                </ContentHino>
+                <ButtonLeft>&gt;</ButtonLeft>
             </Content>
             <Rodape>
 
-                <FaMagnifyingGlassPlus  />
-                 <FaMagnifyingGlassMinus />
-                 <FaHome onClick={handleHome} />
+                <FaMagnifyingGlassPlus />
+                <FaMagnifyingGlassMinus />
+                <FaHome onClick={handleHome} />
                 <FaList />
 
             </Rodape>

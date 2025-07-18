@@ -1,0 +1,858 @@
+[
+    {
+        "numero": 1,
+        "titulo": "Ó Deus de Amor",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Ó Deus de amor, vimos nós Te adorar.",
+                "Vós, ó nações, rendei louvor!",
+                "És Tu, Senhor, o poderoso Vencedor;",
+                "És Criador e Rei sem-par."
+            ],
+            [
+                "Por Teu poder nos criaste, Senhor,",
+                "Deste-nos vida e perfeição;",
+                "E ao desviar-nos de Teu plano de amor",
+                "Veio, em Jesus, a salvação."
+            ],
+            [
+                "Teu é o poder e o louvor, nosso Deus;",
+                "Teu, nosso amor, fervor também.",
+                "Qual rocha firme a verdade ficará",
+                "Deus eternal, Senhor. Amém."
+            ]
+        ]
+    },
+    {
+        "numero": 2,
+        "titulo": "Ó, Adorai o Senhor",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Ó, adorai o Senhor na beleza",
+                "Da santidade, da glória e poder;",
+                "Vinde e prostrai-vos à Sua grandeza;",
+                "Ele é o princípio, e sempre há de ser."
+            ],
+            [
+                " Vinde a Seus pés, Ele é caridade,",
+                "Grande e piedoso, tardio em furor;",
+                "Vinde adorá-Lo por Sua bondade,",
+                "Pela grandeza do Seu santo amor."
+            ],
+            [
+                "Ele criou o Universo e a Terra;",
+                "Vinde e adorai-O com fé e oração;",
+                "Límpida fonte de bênçãos encerra,",
+                "Fonte de graça e de redenção."
+            ]
+        ]
+    },
+    {
+        "numero": 3,
+        "titulo": "O Deus Eterno Reina",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "O Deus eterno reina no monte de Sião.",
+                "Chegai-vos ante o trono Seu em santa adoração.",
+                "Trazei, humildemente, o vosso coração",
+                "Ao Deus eterno e Rei dos reis, Senhor da redenção."
+            ],
+            [
+                "O Deus eterno reina no monte de Sião.",
+                "Os astros na amplidão sem fim, sustenta com a mão.",
+                "A Ele seja a honra, a glória e o poder,",
+                "E ascendam os louvores mil ao mais sublime Ser."
+            ],
+            [
+                " O Deus eterno reina no monte de Sião.",
+                "Entrai no santo templo Seu, buscai o Seu perdão.",
+                "Buscando Sua face, a paz encontrareis;",
+                "E reine para sempre, enfim, o eterno Rei dos reis."
+            ]
+        ]
+    },
+    {
+        "numero": 4,
+        "titulo": "Louvor ao Trino Deus",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Ó anjos e homens, dai a Deus louvores,",
+                "Pois Sua graça dá aos pecadores.",
+                "Ó firmamento, Céus, e mar e Terra,",
+                "Sim, dai louvor a Deus!"
+            ],
+            [
+                "Vós, ó remidos, dai louvor a Cristo,",
+                "Tal sacrifício, oh! jamais foi visto!",
+                "A Sua morte Seu amor revela,",
+                "Sim, adorai Jesus!"
+            ],
+            [
+                "Quão insondável é o amor divino!",
+                "O Santo Espírito ilumina o mundo;",
+                "É tão sublime, luz ao peregrino,",
+                "Luz que ao Céu conduz!"
+            ]
+        ]
+    },
+    {
+        "numero": 5,
+        "titulo": "Supremo Criador",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Supremo Criador, do bem és manancial;",
+                "Com Tua graça e Teu amor livraste-me do mal:",
+                "Com Tua graça e Teu amor livraste-me do mal."
+            ],
+            [
+                "Feitura Tua sou; de Ti a vida vem;",
+                "O Teu maravilhoso amor me ampara e me sustém;",
+                "O Teu maravilhoso amor me ampara e me sustém."
+            ],
+            [
+                "Que sempre Teu poder impere, ó Deus, aqui;",
+                "E faz-me sempre ser fiel me unindo, ó Deus, a ti;",
+                "E faz-me sempre ser fiel me unindo, ó Deus, a Ti."
+            ]
+        ]
+    },
+    {
+        "numero": 6,
+        "titulo": "Por Belezas Naturais",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Por belezas naturais, pelo azul do lindo céu,",
+                "Por encantos imortais, ó Senhor, ao trono Teu",
+                "Se erguerá, e com fervor, Nossa voz em Teu louvor."
+            ],
+            [
+                "Por amigos e irmãos, pela luz do puro amor,",
+                "Por poderem nossas mãos trabalhar em Teu favor,",
+                "Se erguerá, também, Senhor, Nossa voz em Teu louvor."
+            ],
+            [
+                "Por Jesus, o Salvador, que por nós morreu na cruz,",
+                "Pelo Espírito de amor que à verdade nos conduz,",
+                "Se erguerá, também, Senhor, Nossa voz em Teu louvor."
+            ]
+        ]
+    },
+    {
+        "numero": 7,
+        "titulo": "Sejas Louvado",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Sejas Louvado, Rei Criador da natura!",
+                "Louva, minha alma, louva com zelo e ternura!",
+                "Louva ao Senhor pelo insondável amor,",
+                "Cálido amor que perdura!"
+            ],
+            [
+                "Sejas Louvado, Tu que o Universo conduzes!",
+                "Sob Tuas asas, paz e conforto produzes!",
+                "Haja louvor pelo Teu dom redentor,",
+                "Príncipe eterno das luzes"
+            ],
+            [
+                "Sejas Louvado, pelo cuidado paterno!",
+                "Sobre a verdade ergues Teu reino superno!",
+                "Teu, o louvor seja somente, Senhor,",
+                "Por Teu amor sempiterno"
+            ]
+        ]
+    },
+    {
+        "numero": 8,
+        "titulo": "A Ti Rendemos Glórias",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "A Ti rendemos glórias, Ó Rei e Redentor,",
+                "A quem crianças rendem, também, o seu louvor.",
+                "Senhor, nos inclinamos aos Teus sagrados pés,",
+                "E a Ti nós adoramos, pois Deus eterno és."
+            ],
+            [
+                "A voz dos anjos santos, em sons transcendentais,",
+                "Aqui na Terra ecoa na voz dos vis mortais.",
+                "Só Tu, ó Deus bondoso, és o Pastor fiel,",
+                "O Rei dos reis vindouro, Senhor de Israel."
+            ],
+            [
+                "Louvor Te deram antes da cruz e da paixão;",
+                "E nós também cantamos o dom da salvação,",
+                "Pois Teu, Senhor, é o reino, a glória e o poder,",
+                "E a Ti, pra sempre, os salvos, mui gratos hão de ser."
+            ]
+        ]
+    },
+    {
+        "numero": 9,
+        "titulo": "Prece ao Trino Deus",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Ó grande e eterno Deus! Ouve nos lá dos Céus;",
+                "Eis a oração: Vem, Pai, presente estar,",
+                "Vem, Teu poder nos dar,",
+                "Com Tua voz falar Ao coração"
+            ],
+            [
+                "Ó encarnado Deus, Sim, te adoramos nós,",
+                "Bom Redentor; Vem nos purificar,",
+                "Vem nos santificar;",
+                "Dá-nos a Tua paz E o Teu amor."
+            ],
+            [
+                "Ó, vem, Consolador, Com tua voz falar",
+                "Ao coração; E vem em nós morar,",
+                "Consolação nos dar,",
+                "Também nos confirmar na redenção"
+            ]
+        ]
+    },
+    {
+        "numero": 10,
+        "titulo": "Louvemos o Rei",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Louvemos o Rei, glorioso Senhor",
+                "Oh, vamos cantar de Seu infindo amor!",
+                "Escudo seguro é Seu grande poder,",
+                "E sempre Seus filhos está a defender."
+            ],
+            [
+                "Falemos de Deus, da graça sem-par,",
+                "Do grande Senhor do Céu, da Terra e mar,",
+                "Que forma a chuva, o vento e a luz.",
+                "A forte tormenta o Seu poder traduz."
+            ],
+            [
+                "Cantemos do Seu cuidado por nós,",
+                "E demos ao Pai louvor em alta voz,",
+                "Louvemos, louvemos ao bom Criador,",
+                "Amigo sincero, fiel e Redentor."
+            ]
+        ]
+    },
+    {
+        "numero": 11,
+        "titulo": "Ao Deus de Abraão Louvai",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Ao Deus de Abraão louvai, supremo Criador,",
+                "Eterno Deus, bondoso Pai e Rei Senhor.",
+                "O grande Deus EU SOU, Céu, Terra e mar formou,",
+                "Meu ser também dará louvor ao Deus de amor."
+            ],
+            [
+                "Ao Deus de Abraão louvai, Eterno Benfeitor.",
+                "O povo Seu um dia vai ao lar de amor.",
+                "O mundo vil deixei, seu gozo e seu prazer,",
+                "E filho então de Deus serei até morrer."
+            ],
+            [
+                "Ao Deus de Abraão louvai; os anjos dão louvor,",
+                "E vós também louvores daí ao Deus de amor.",
+                "Ao Deus de Abraão e meu, no além irei louvar.",
+                "E ternamente eu louvarei ao Deus sem-par."
+            ]
+        ]
+    },
+    {
+        "numero": 12,
+        "titulo": "Vinde, Povo do Senhor",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Vinde povo do Senhor, adorai-o com louvor",
+                "Ao Deus trino exaltai: a Jesus, a Deus, o Pai,",
+                "E ao Espírito de luz que em bondade nos conduz.",
+                "Vinde, povo do Senhor, adorai o Deus de amor."
+            ],
+            [
+                "Observemos com fervor este dia do Senhor,",
+                "Pois as bênçãos lá do Céu, aos fiéis as prometeu.",
+                "Atentai à Sua voz com amor falar a nós.",
+                "Vinde, povo do Senhor, exaltai o Criador."
+            ],
+            [
+                "Quando a igreja se tornar triunfante, lá no lar,",
+                "Nossas lutas findarão, e virá a redenção.",
+                "Mal e dor ficando a trás, reinará amor e paz.",
+                "Vinde, povo do Senhor, aclamai o Redentor."
+            ]
+        ]
+    },
+    {
+        "numero": 13,
+        "titulo": "Louvamos-Te, ó Deus",
+        "temCoro": true,
+        "posicaoCoro": 1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Louvamos-Te, ó Deus, pelo dom de Jesus,",
+                "Que por nós, pecadores, foi morto na cruz"
+            ],
+            [
+                "Louvamos-Te, ó Deus, pelo Espírito, luz",
+                "Que nos tira das trevas e a Cristo conduz"
+            ],
+            [
+                "Ó, vem nos encher de celeste fervor,",
+                "De esperança e bondade, de fé, zelo e amor"
+            ]
+        ],
+        "coro": [
+            "Aleluia! Toda a glória",
+            "Te rendemos sem fim.",
+            "Aleluia! Tu a graça",
+            "Imploramos. Amém."
+        ]
+    },
+    {
+        "numero": 14,
+        "titulo": "Jubilosos Te Adoramos",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Jubilosos te adoramos, Deus da glória, Deus do amor.",
+                "Nosso coração transborda em louvor a Ti, Senhor.",
+                "Rompe as nuvens da tristeza, do pecado e do temor.",
+                "Doador da eterna graça, enche-nos de Teu amor!"
+            ],
+            [
+                "Tua obras anunciam Teu poder e resplendor.",
+                "Céus e Terra cantam hinos em louvor a Ti, Senhor.",
+                "Vales, montes e campinas, lindos prados, verde mar,",
+                "Aves, fontes cristalinas, todos querem te adorar."
+            ],
+            [
+                "Aleluia, aleluia, a Jesus o Redentor!",
+                "Aleluia eternamente em louvor a Ti, Senhor",
+                "Ao Consolador dai glória, pois conforto e vida traz.",
+                "Aleluia ao Pai eterno, Deus da graça, Deus da paz!"
+            ]
+        ]
+    },
+    {
+        "numero": 15,
+        "titulo": "Vós, Criaturas do Senhor",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Vós, criaturas do Senhor,",
+                "Oh, ele vai a Deus louvor!",
+                "Oh, louvai-O! Aleluia!",
+                "Tu, Sol dourado a refulgir;",
+                "Tu, Lua em prata a reluzir!",
+                "Oh, louvai-O! Oh, louvai-O!",
+                "Aleluia! Aleluia! Aleluia!"
+            ],
+            [
+                "Ó Terra e Céu, a Deus honrai;",
+                "Preito de amor e graças dai!",
+                "Oh, louvai-O! Aleluia!",
+                "Flores, erguei-vos em canção",
+                "Ao grande Deus da criação!",
+                "Oh, louvai-O! Oh, louvai-O!",
+                "Aleluia! Aleluia! Aleluia!"
+            ],
+            [
+                "Vós, homens sábios e de bem,",
+                "Dai ao Senhor louvor também!",
+                "Oh, louvai-O! Aleluia!",
+                "Dai glória ao Filho, glória ao Pai,",
+                "E ao Santo Espírito louvai!",
+                "Oh, louvai-O! Oh, louvai-O!",
+                "Aleluia! Aleluia! Aleluia!"
+            ]
+        ]
+    },
+    {
+        "numero": 16,
+        "titulo": "A Deus Demos Glória",
+        "temCoro": true,
+        "posicaoCoro": 1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "A Deus demos glória com grande fervor,",
+                "Seu Filho bendito por nós todos deu.",
+                "A graça concede ao mais vil pecador,",
+                "Abrindo-lhe a porta de entrada no Céu."
+            ],
+            [
+                "Oh! graça real! Foi assim que Jesus,",
+                "Morrendo, Seu sangue por nós derramou!",
+                "Herança nos Céus, com os santos em luz,",
+                "Comprou-nos Jesus, pois o preço pagou."
+            ],
+            [
+                "A crer nos convida tal prova de amor,",
+                "Nos merecimentos do Filho de Deus.",
+                "E quem, pois, confia no seu Salvador,",
+                "Vai vê-Lo sentado na glória do Céu."
+            ]
+        ],
+        "coro": [
+            "Exultai! Exultai! Vinde todos louvar",
+            "A Jesus Salvador; a Jesus Redentor.",
+            "A Deus demos glória, por quanto do Céu,",
+            "Seu Filho bendito por nós todos deu."
+        ]
+    },
+    {
+        "numero": 17,
+        "titulo": "Nós Te Adoramos",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Nós Te adoramos, Deus infinito,",
+                "E a Teu Filho, Rei, Salvador;",
+                "Teu nome eterno é sempre bendito;",
+                "Teu Espírito traz-nos amor.",
+                "Glória rendemos, honra, louvor,",
+                "E adoração a Ti, ó Senhor!"
+            ],
+            [
+                "Éramos presos pelo pecado,",
+                "Tu nos livras-te dessa prisão;",
+                "E por Teu Filho imaculado,",
+                "Ofertaste-nos a salvação.",
+                "Glória rendemos, honra, louvor,",
+                "E adoração a Ti, Redentor!"
+            ],
+            [
+                "Tu nos convences dos vis pecados,",
+                "E da justiça, luzes nos dás,",
+                "E à verdade somos guiados,",
+                "Ó Espírito Santo de paz.",
+                "Glória rendemos, honra, louvor,",
+                "E adoração, ó consolador!"
+            ]
+        ]
+    },
+    {
+        "numero": 19,
+        "titulo": "Ao Coro dos Arcanjos",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Ao coro dos arcanjos eu uno meu louvor,",
+                "E adoro humildemente o grande Criador.",
+                "Enquanto os passarinhos voando pelo ar",
+                "Entoam seus louvores, eu ergo meu cantar."
+            ],
+            [
+                "Se às vezes sou tentado a ouvir a voz do mal,",
+                "Escuto, então, dos anjos, o coro divinal.",
+                "Eu canto em voz mais alta que a voz do tentador,",
+                "E nesse mesmo instante renovo meu vigor."
+            ],
+            [
+                "Nas horas de tristeza, nas lutas e na dor,",
+                "Nos dias de saudade do eterno lar de amor,",
+                "Eu ouço a natureza, feliz, rejubilar,",
+                "E sinto da harmonia a paz me confortar."
+            ]
+        ]
+    },
+    {
+        "numero": 20,
+        "titulo": "A Ti, Toda Glória",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "A Ti, toda glória e louvores rendemos,",
+                "Senhor do Universo e Deus, Criador!",
+                "Reunidos, rogamos as Tuas santas bênçãos,",
+                "E graças ofertamos por Teu grande amor."
+            ],
+            [
+                "Ó fonte perene de bênçãos constantes,",
+                "Fruindo Tua graça queremos viver;",
+                "Sustém-nos os passos, pois, são mui vacilantes;",
+                "Somente pela fé nós podemos vencer."
+            ],
+            [
+                "Louvores rendemos por Tua bondade.",
+                "Teu Filho querido nos deste, na cruz;",
+                "Sua morte nos trouxe perdão e eternidade,",
+                "E abriu-nos os portais para o reino de luz."
+            ]
+        ]
+    },
+    {
+        "numero": 21,
+        "titulo": "Vigiar e Orar",
+        "temCoro": true,
+        "posicaoCoro": 1,
+        "noEstrofes": 4,
+        "estrofes": [
+            [
+                "Bem de manhã, embora o céu sereno",
+                "Pareça um dia calmo anunciar,",
+                "Vigia e ora; o coração pequeno",
+                "Um temporal pode abrigar."
+            ],
+            [
+                "Ao meio-dia, quando os sons da Terra",
+                "Abafam mais de Deus a voz de amor,",
+                "Recorre à oração, evita a guerra,",
+                "E goza paz com o Senhor."
+            ],
+            [
+                "Ao fim do dia, após os teus lidares,",
+                "Relembra as bênçãos do celeste amor,",
+                "E conta a Deus prazeres e pesares,",
+                "Deixando em Suas mãos a dor."
+            ],
+            [
+                "E sem cessar, vigia a cada instante,",
+                "Que o inimigo ataca sem parar;",
+                "Só com Jesus, em comunhão constante,",
+                "Pode o mortal ao Céu chegar."
+            ]
+        ],
+        "coro": [
+            "Bem de manhã, e sem cessar;",
+            "Vigiar sim, e orar."
+        ]
+    },
+    {
+        "numero": 22,
+        "titulo": "Bem de Manhã",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Bem de manhã, sereno surge o dia;",
+                "Já aves mil entoam seu louvor.",
+                "Luz vem encher o mundo de alegria.",
+                "Bem de manhã, contigo estou, Senhor."
+            ],
+            [
+                "Bem de manhã, alegre, a natureza",
+                "Dá seu louvor ao Deus da criação.",
+                "Só, com fervor, eu busco mais pureza;",
+                "Eu venho a Ti, ó Deus, em oração."
+            ],
+            [
+                "Pai, quando enfim a luz fugir do mundo,",
+                "Já quando o céu escuro e negro for,",
+                "Vem conceder, em Teu amor profundo,",
+                "Luz, proteção, descanso em Ti, Senhor."
+            ]
+        ]
+    },
+    {
+        "numero": 23,
+        "titulo": "De Manhã Bem Cedo Busco",
+        "temCoro": true,
+        "posicaoCoro": 1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "De manhã bem cedo busco,",
+                "De Jesus, a direção,",
+                "Pra seguir sempre Seus passos,",
+                "No conforto ou na aflição."
+            ],
+            [
+                "Eu, embora pequenino,",
+                "Obedeço ao Seu mandar.",
+                "Sigo a estrada que Ele mostra,",
+                "Sem temer nem hesitar."
+            ],
+            [
+                "Ele é forte, me protege,",
+                "E me guarda de pecar.",
+                "Se tentado corro a Ele,",
+                "Que me livra sem tardar."
+            ]
+        ],
+        "coro": [
+            "Ele me ama, Ele me ama,",
+            "Cristo me ama, bem o sei.",
+            "Tenho a prova no Calvário;",
+            "Para sempre amá-lo-ei."
+        ]
+    },
+    {
+        "numero": 24,
+        "titulo": "Desponta o Sol",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Desponta o Sol, e eu venho a Ti,",
+                "Senhor dos altos Céus;",
+                "Ouvir-me-ás a voz aqui,",
+                "A voz dos rogos meus?"
+            ],
+            [
+                "Bem cedo, ó Pai, irás me ouvir,",
+                "Sim, desde o arrebol;",
+                "Com Tua mão me conduzir;",
+                "Até o pôr-do-sol."
+            ],
+            [
+                "E quando enfim voltar Jesus,",
+                "Com glória e resplendor;",
+                "Que eu possa então, brilhando em luz,",
+                "Subir ao lar de amor."
+            ]
+        ]
+    },
+    {
+        "numero": 25,
+        "titulo": "Bendito Seja Deus",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 4,
+        "estrofes": [
+            [
+                "Na luz da alvorada,",
+                "Minh'alma acorda e brada:",
+                "Bendito seja Deus!",
+                "E quando o dia aquece,",
+                "Eu canto em minha prece:",
+                "Bendito seja Deus!"
+            ],
+            [
+                "Então a vil fraqueza",
+                "Transforma-se em firmeza:",
+                "Bendito seja Deus!",
+                "No meio da agonia,",
+                "Deus manda-me alegria:",
+                "Bendito seja Deus!"
+            ],
+            [
+                "Cantai, com alegria,",
+                "A doce melodia:",
+                "Bendito seja Deus!",
+                "A quem minh'alma adora,",
+                "Dizei, nações, agora:",
+                "Bendito seja Deus!"
+            ],
+            [
+                "E seja o nosso canto",
+                "Sincero, puro e santo:",
+                "Bendito seja Deus!",
+                "Cantai, á cristandade,",
+                "Por toda a eternidade:",
+                "Bendito seja Deus!"
+            ]
+        ]
+    },
+    {
+        "numero": 26,
+        "titulo": "Luzes da Aurora",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Luzes da aurora faze brilhar,",
+                "Ó Pai, agora, ao despertar;",
+                "Sim, bem cedinho, faze luzir,",
+                "Hoje, o caminho meu a seguir."
+            ],
+            [
+                "Cresça Teu brilho, luz divinal,",
+                "Sobre meu trilho, longe do mal;",
+                "Eu me humilho ante Teus pés,",
+                "Pois sou Teu filho; meu Deus Tu és."
+            ],
+            [
+                "Dia após dia, dá-me, Senhor,",
+                "Mais alegria e mais fervor;",
+                "Felicidade na retidão,",
+                "E santidade de coração."
+            ]
+        ]
+    },
+    {
+        "numero": 27,
+        "titulo": "Perto do Lar",
+        "temCoro": true,
+        "posicaoCoro": 1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Desce o Sol atrás dos montes,",
+                "E a tarde já chegou.",
+                "Calma e quieta vem a noite,",
+                "Mais um dia terminou;",
+                "Já se foi com sua luta,",
+                "Logo a negra noite vem,",
+                "Mas é doce a lembrança:",
+                "Perto está o lar de além."
+            ],
+            [
+                "Perto do lar, perto do lar,",
+                "Perto, sim, do lar dos Céus!",
+                "Desse tão lindo lar",
+                "Com fontes de cristal,",
+                "Do país do eterno Deus."
+            ],
+            [
+                "Mui cansado o peregrino",
+                "Quer do dia ao fim chegar;",
+                "Do labor, que é tão penoso,",
+                "Outra vez vai descansar.",
+                "Tal a vida, neste mundo,",
+                "Que havemos de passar,",
+                "Mas as sombras nos relembram:",
+                "Perto está o eterno lar."
+            ],
+            [
+                "Mais um dia na viagem",
+                "Para a casa paternal;",
+                "Já mais perto está o rio",
+                "Do país celestial.",
+                "A cidade já refulge,",
+                "Vislumbramos seu fulgor;",
+                "Cada vez mais perto estamos",
+                "Do glorioso lar de amor."
+            ]
+        ]
+    },
+    {
+        "numero": 28,
+        "titulo": "Morre o Dia",
+        "temCoro": true,
+        "posicaoCoro": 1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Morre o dia, põe-se o Sol;",
+                "Desce à Terra, na amplidão,",
+                "Suave calma, doce paz;",
+                "Vem, medita em oração,",
+                "Em oração"
+            ],
+            [
+                "Santo, santo, santo és, nosso Deus!",
+                "Toda a Terra e altos Céus",
+                "Dão-Te graças e louvor,",
+                "A Ti, Senhor."
+            ],
+            [
+                "Quando as sombras sobrevêm,",
+                "Cobre-nos com Tua mão.",
+                "Tu, que lá no Céu estás,",
+                "Vem ao nosso coração,",
+                "Ao coração."
+            ],
+            [
+                "Quando a noite a nós vier,",
+                "E chegar a escuridão,",
+                "Que em Tua graça, ó Deus,",
+                "Haja, enfim, ressurreição,",
+                "Ressurreição."
+            ]
+        ]
+    },
+    {
+        "numero": 29,
+        "titulo": "Já o Dia Longe Vai",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Já o dia longe vai;",
+                "Com negror a noite cai.",
+                "Livre, agora, do labor,",
+                "Venho a Ti, meu bom Senhor."
+            ],
+            [
+                "Tu, que a todos vês dos Céus,",
+                "Vês também os erros meus,",
+                "Mas às faltas contra a lei,",
+                "Dá perdão, bondoso Rei."
+            ],
+            [
+                "Minha noite triste cai,",
+                "Longe a luz do Sol se vai.",
+                "Quero, pois, em Ti, meu Deus,",
+                "Repousar dos fardos meus."
+            ]
+        ]
+    },
+    {
+        "numero": 30,
+        "titulo": "Hora Feliz do Pôr-do-Sol",
+        "temCoro": false,
+        "posicaoCoro": -1,
+        "noEstrofes": 3,
+        "estrofes": [
+            [
+                "Hora feliz do pôr-do-sol,",
+                "Hora de paz e comunhão,",
+                "Hora de luz celestial,",
+                "Hora de fé e de oração."
+            ],
+            [
+                "Bênçãos de paz, de amor e luz,",
+                "Para os fiéis vem dar Senhor.",
+                "Vimos a Ti com gratidão,",
+                "Para cantar em Teu louvor."
+            ],
+            [
+                "Oh! Como é bom aqui sentir",
+                "Teu divinal e eterno amor!",
+                "Dá-nos, ó Deus, o Teu perdão,",
+                "Graça e poder, ó bom Senhor"
+            ]
+        ]
+    }
+]
