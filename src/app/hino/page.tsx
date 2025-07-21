@@ -1,4 +1,5 @@
 'use client'
+import React from "react";
 import { FaMagnifyingGlassMinus, FaMagnifyingGlassPlus } from "react-icons/fa6";
 import { ButtonLeft, Content, ContentHino, ContentTitulo, P, PNoEstrofe, Rodape } from "./styles";
 import { FaHome, FaList } from "react-icons/fa";
@@ -13,7 +14,7 @@ export default function Hino() {
     const router = useRouter();
     const posicao = 0;
     const searchParams = useSearchParams();
-    const no = searchParams.get('num')
+    const no = searchParams.get('num');
 
     const numero = Array.isArray(no) ? parseInt(no[0]) : parseInt(no ?? '')
     const hino = hinos.find((hino) => hino.numero === numero)
