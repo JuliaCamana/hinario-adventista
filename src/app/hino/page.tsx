@@ -4,16 +4,14 @@ import { ButtonLeft, Content, ContentHino, ContentTitulo, P, PNoEstrofe, Rodape 
 import { FaHome, FaList } from "react-icons/fa";
 import { useRouter, useSearchParams } from "next/navigation";
 import hinos from "@/app/datas/letraHinos.json";
-import { Numans } from "next/font/google";
-import { useState } from "react";
+
 
 
 
 export default function Hino() {
 
     const router = useRouter();
-    const [noEstrofe, setNoEstrofe] = useState(1);
-    const [posicao, setPosicao] = useState(0);
+    const posicao = 0;
     const searchParams = useSearchParams();
     const no = searchParams.get('num')
 
